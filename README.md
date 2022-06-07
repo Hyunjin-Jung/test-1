@@ -12,3 +12,5 @@
 ![눈오리](./images/duck.jpg)
 
 수정
+
+pull request - sub branch
